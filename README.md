@@ -1,6 +1,8 @@
 # kafka-avro-publisher-demo
 Springboot Kafka demo using Avro schema
 
+Note: This project is facing issues while publish the message. Need to work on it. 
+
 Reference : 
 GitHub Link : https://github.com/vishaluplanchwar/KafkaTutorials/tree/master/spring-kafka-avro-producer-consumer
 
